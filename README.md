@@ -8,4 +8,7 @@ This is the link to the ETH website: [ETH Website](https://ethz.ch/de.html)
 This is an image of a dog: 
 ![dog](dog.jpeg)
 
+| Year | 2019 | 2020 | 2021 |
+| :---: | :---: | :---: | :---: |
+| ETH Ranking | 1 | 3 | 2 |
 
